@@ -1,0 +1,3 @@
+What is pseudocode?
+
+Pseudocode is code simplified for people to read, which is good for understanding what's going on in a program.
